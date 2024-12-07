@@ -13,18 +13,19 @@
 ## 📂ls📂
 ![yusuf5](https://github.com/user-attachments/assets/ec187da8-9b81-429d-aaaa-19e214ac4082)
 ### <p><i> ls bizlere dizinin hangi klasörlerden oluşturduğunu barındırdığını gösterir arkadaşlar...Ls-a komutu,dizi içindeki gizli klasörleri göstermektedir fakat bende gizli klasörler yoktu. Bilgisayar bu yüzden klasör bulunamıyor diyor</i></p>  
-
+## 📂ls -al📂
 ![yusuf6](https://github.com/user-attachments/assets/d27eea67-97fa-4339-8cb6-63d848ee5892)
 ### <p><i>Burada LS -AL klasörlerin sahiplerini dizinlerini ve gizli ve normal dosyalarını renk ile ayırt ederek bize göstermesini saağlayan komuttur arkadaşlar...i></p>   
-
+## 📂mkdir📂
 ![yusuf8](https://github.com/user-attachments/assets/042066cf-12c5-4fca-b6f9-7ab76d9feb34)
 ### <p><i>MKDİR= klasör açılımını oluşturulmasını sağlarken,rmdir dosya silinmesinde olanak sağlamaktadır...></p>   
 
+## 📂touch📂
 ![yusuf9](https://github.com/user-attachments/assets/5a72856f-9fda-4065-a22c-180b090d57f1)
 ### <p><i>touch komutu dosya klasor dizinin içinde boş sayfa belge klasör açar..</p>   
 
 
-
+# #📂cp📂
 
 
 ![goruntu10](https://github.com/user-attachments/assets/2ef9514a-b7d6-46a7-876b-33fb2c7116b1)
@@ -32,13 +33,13 @@
 
 
 
-
+## 📂rm -r📂
 
 ![goruntu 11](https://github.com/user-attachments/assets/389ad995-b21a-4d32-add7-86e444e142ca)
 ### <p><i>RM -R klasör silmekte yardımcı olur</p> 
 
 
-
+## 📂history📂
 
 ![goruntu 12](https://github.com/user-attachments/assets/3888603b-801a-4cae-a989-a22905d98ac6)
 
@@ -47,52 +48,52 @@
 
 ![goruntu 13](https://github.com/user-attachments/assets/2bf52104-5bc4-4aa5-a149-5d995c053119)
 ### <p><i>yukarıda history |grepls yazmışım burada grep ve|işareti dikkate almalıyız bunları yazarak dilde bu komutları kaç kez yazdığımızı kullanma sıklığımızı görebiliriz akadaşlar...</p> 
-
+ ## 📂mam📂
 ![goruntu 14](https://github.com/user-attachments/assets/211e9527-8900-4f70-8762-d92c813b01cf)
 ### <p><i>Mam komutu yapıp enter tuşuna bastığımızda komutlarla ilgili hangi komutun ne anlama geldiğini gösteren yazılarla karşılaşırız...Bilgilendirme içerir de diyebiliriz aslında</p> 
 
-
+## 📂find📂
 ![yusuf15](https://github.com/user-attachments/assets/85c697ce-ec99-4fac-b328-9b47f7ee8af5)
 
 ### <p><i>find komutu dosya arama aracıdır arkadaşlar bu komut sayesinde istediğimiz klasörü bulabiliriz...</p> 
 
+## 📂head📂
 ![goruntu 16](https://github.com/user-attachments/assets/bfb6b317-8226-430e-9417-65d35417f79a)
 
 ### <p><i>head komutu seçtiğimiz komutun içindeki sözcük ve satırlarının ilk 10 satırını gösteren komuttur...Örneğin bi klasöre text gibi bir klasöre yaptığımız bir işlemin sonucunda bu komut sayesinde ilk 10 satır olarak gösteren komutur...</p> 
 
 
-
+## 📂tail📂
 ![goruntu 17](https://github.com/user-attachments/assets/025a094d-eb4f-4b80-a30f-7cb3a4f6f577)
 ### <p><i>tail komutu head ın tam tersi görevde bulunur yani boş klasör belgenin son 10 satırını göstermektedir...</p> 
 
-
+## 📂grep📂
 ![goruntu 18](https://github.com/user-attachments/assets/1d9ff2f5-ba8b-4334-a5ad-ab748eedefc7)
 
 ### <p>grep komutu istediğimiz varlığın ve komutun nerede olduğunu gösterir .Yukarıda gördüğünüz gibi grep-n yazmışım ve yanına x bişey yazdığımı düşünün.ben y harfini yazdım. bu yazdığınız şeyin nerede olduğunu nerede yazıldığını görebilrsiniz .kaç defa yazıldığınıda ayrıca görebilirsiniz...<i></p> 
 
-
+## 📂echo📂
 ![goruntu 19](https://github.com/user-attachments/assets/eb055575-c4ef-475b-b5cb-9db49f763e2e)
 
-### <p><i>cat komutu metin dosyalarını okumak, görüntülemek ve birleştirmek için kullanılır.</p> 
-
-
+### <p><i>en alttaki örneğimde anladığım kadarıyla bir örnek vericem arkadaşlar ...</p> 
+## 📂cat📂
 ![goruntu 20](https://github.com/user-attachments/assets/c4e82bee-a412-4df9-96f9-c8045343d73e)
 
 ### <p><i>cat komutu metin dosyalarını okumak, görüntülemek ve birleştirmek için kullanılır.</p> 
-
+## 📂df📂
 ![goruntu 21](https://github.com/user-attachments/assets/c99d52d2-2947-479f-846f-a0f2e5fcbcb6)
 
 ### <p><i>bir dosya sisteminde toplam alan ve kullanılabilir alan hakkında bilgi görüntüler.</p> 
-
+## 📂ls -lt📂
 ![ls - lt(tarihe göre sıralar)](https://github.com/user-attachments/assets/c01e0056-aced-4c3a-8112-170d9fea092c)
 
 ### <p><i>LS -LT komutu dosya ve klasörleri tarihlerine göre sıralar. arkadaşlar boşluk bırakmayı unutmayın yoksa komut çalışmaz...</p> 
-
+## 📂ls -l📂
 ![ls-l  (alfabetik sıralar)](https://github.com/user-attachments/assets/81c5f505-211d-4167-b3f3-bbec628dc589)
 
 ### <p><i>ls -l komutu dosyaları alfabetik sıraya göre yapmaktadır...</p> 
 
-
+## 📂mkdir -p📂
 ![mkdir p(iç içe dizin oluşturur)](https://github.com/user-attachments/assets/93249ead-5e49-401b-b31d-76f1b79e8b4c)
 ### <p><i>arkadaşlar son bilgilendirmek istediğim komutum MKDİR P . Bu komut dosya içinde dosya açar iç içe dosya klasör açmaktadır...</p> 
 
