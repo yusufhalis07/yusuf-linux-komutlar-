@@ -1,8 +1,52 @@
-                                                                                                                                                                                          
+# 💻LİNUX DOS KOMUTLARI💻
+### <p><i>merhaba sevgili arkadaşlar ben bilişim sınıfı öğrencilerinden Yusuf Semih Halis.Sizler kendi edindiğim bazı bilgileri paylaşmak istiyorum linux komutlarından bahsedelim linux işletim sisteminde bazı terminal komutları vardır. Özellikle windows harici işletim sistemlerini kullanıyorsanız illaki x işletim sistemi komutları sizin işinize yarayacaktır. şimdi sizlerle dersimize geçelim...</i></p>
+## 📂CD📂
+![goruntu 1](https://github.com/user-attachments/assets/06498ecd-2516-4f64-aead-9aff9bb941b8)
+### <p><i>burada cd komutu windows komutlarından düşünerek anlıyacağımız gibi bir klasöre giriş yapmamızda yardımcı olan komuttur... Clear ın anlamıysa terminali silmek için kullanılan dizi silmede kullanılan komuttur...</i></p>                                                                                                 
+
+![Ekran görüntüsü_2024-11-10_21-51-22](https://github.com/user-attachments/assets/1862afd0-e33c-48a9-9dbd-6788f6c86bff)
+
+### <p><i> Burada arkadaşlar kendi ismimi yazamadım fakat nakaaiii olarak isim koymuştum . Buradan anlayacağınız gibi tüm yazdığım testler benim üzerime dir....</i></p>   
+## 📂Pwd📂
+![yusuf3](https://github.com/user-attachments/assets/77430ee7-db97-4627-b121-e2224a593156)
+### <p><i> pwd nin anlamı dosya veya klasör hanfi dizilimden geldiği hangi klasörün alt klasörü olduğunu gösterir.</i></p>  
+## 📂ls📂
+![yusuf5](https://github.com/user-attachments/assets/ec187da8-9b81-429d-aaaa-19e214ac4082)
+### <p><i> ls bizlere dizinin hangi klasörlerden oluşturduğunu barındırdığını gösterir arkadaşlar...Ls-a komutu,dizi içindeki gizli klasörleri göstermektedir fakat bende gizli klasörler yoktu. Bilgisayar bu yüzden klasör bulunamıyor diyor</i></p>  
+
+![yusuf6](https://github.com/user-attachments/assets/d27eea67-97fa-4339-8cb6-63d848ee5892)
+### <p><i>Burada LS -AL klasörlerin sahiplerini dizinlerini ve gizli ve normal dosyalarını renk ile ayırt ederek bize göstermesini saağlayan komuttur arkadaşlar...i></p>   
+
+![yusuf8](https://github.com/user-attachments/assets/042066cf-12c5-4fca-b6f9-7ab76d9feb34)
+### <p><i>MKDİR= klasör açılımını oluşturulmasını sağlarken,rmdir dosya silinmesinde olanak sağlamaktadır...></p>   
+
+![yusuf9](https://github.com/user-attachments/assets/5a72856f-9fda-4065-a22c-180b090d57f1)
+### <p><i>touch komutu dosya klasor dizinin içinde boş sayfa belge klasör açar..</p>   
+
+
+
+
+
+![goruntu10](https://github.com/user-attachments/assets/2ef9514a-b7d6-46a7-876b-33fb2c7116b1)
+### <p><i>cp komutu adı üzerinde copy gibi kopya oluşturur. daha güzel anlamda söylersek dışarıda ki bir klasörü bir başka klasörün içine kopyalayan komuttur.</p> 
+
+
+
+
+
+![goruntu 11](https://github.com/user-attachments/assets/389ad995-b21a-4d32-add7-86e444e142ca)
+### <p><i>RM -R klasör silmekte yardımcı olur</p> 
+
+
+
+
+
+
+                                                                           
                                                                                                                                                                                                                                                          
                                                                                                                                                     
                                                                                                                                                                                                                                                                                                                                                                                                                   
-                                                                                                                                                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                                                                                                                               
                                                                                                                                                                                                                                                                                                                                                                                                                   
                                                                                                                                                                                                                                                                                                                                                                                                                   
                                                                                                                                                                                                                                                                                                                                                                                                                   
