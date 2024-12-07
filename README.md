@@ -40,6 +40,68 @@
 
 
 
+![goruntu 12](https://github.com/user-attachments/assets/3888603b-801a-4cae-a989-a22905d98ac6)
+
+### <p><i>history komutu daha önce çalıştığımız komutları gösteren komuttur.yani yaptığımız işlemlerin sonunda kaç komut ve hangi komutları girdiğimizi gösterir...**</p>
+
+
+![goruntu 13](https://github.com/user-attachments/assets/2bf52104-5bc4-4aa5-a149-5d995c053119)
+### <p><i>yukarıda history |grepls yazmışım burada grep ve|işareti dikkate almalıyız bunları yazarak dilde bu komutları kaç kez yazdığımızı kullanma sıklığımızı görebiliriz akadaşlar...</p> 
+
+![goruntu 14](https://github.com/user-attachments/assets/211e9527-8900-4f70-8762-d92c813b01cf)
+### <p><i>Mam komutu yapıp enter tuşuna bastığımızda komutlarla ilgili hangi komutun ne anlama geldiğini gösteren yazılarla karşılaşırız...Bilgilendirme içerir de diyebiliriz aslında</p> 
+
+
+![yusuf15](https://github.com/user-attachments/assets/85c697ce-ec99-4fac-b328-9b47f7ee8af5)
+
+### <p><i>find komutu dosya arama aracıdır arkadaşlar bu komut sayesinde istediğimiz klasörü bulabiliriz...</p> 
+
+![goruntu 16](https://github.com/user-attachments/assets/bfb6b317-8226-430e-9417-65d35417f79a)
+
+### <p><i>head komutu seçtiğimiz komutun içindeki sözcük ve satırlarının ilk 10 satırını gösteren komuttur...Örneğin bi klasöre text gibi bir klasöre yaptığımız bir işlemin sonucunda bu komut sayesinde ilk 10 satır olarak gösteren komutur...</p> 
+
+
+
+![goruntu 17](https://github.com/user-attachments/assets/025a094d-eb4f-4b80-a30f-7cb3a4f6f577)
+### <p><i>tail komutu head ın tam tersi görevde bulunur yani boş klasör belgenin son 10 satırını göstermektedir...</p> 
+
+
+![goruntu 18](https://github.com/user-attachments/assets/1d9ff2f5-ba8b-4334-a5ad-ab748eedefc7)
+
+### <p>grep komutu istediğimiz varlığın ve komutun nerede olduğunu gösterir .Yukarıda gördüğünüz gibi grep-n yazmışım ve yanına x bişey yazdığımı düşünün.ben y harfini yazdım. bu yazdığınız şeyin nerede olduğunu nerede yazıldığını görebilrsiniz .kaç defa yazıldığınıda ayrıca görebilirsiniz...<i></p> 
+
+
+![goruntu 19](https://github.com/user-attachments/assets/eb055575-c4ef-475b-b5cb-9db49f763e2e)
+
+### <p><i>cat komutu metin dosyalarını okumak, görüntülemek ve birleştirmek için kullanılır.</p> 
+
+
+![goruntu 20](https://github.com/user-attachments/assets/c4e82bee-a412-4df9-96f9-c8045343d73e)
+
+### <p><i>cat komutu metin dosyalarını okumak, görüntülemek ve birleştirmek için kullanılır.</p> 
+
+![goruntu 21](https://github.com/user-attachments/assets/c99d52d2-2947-479f-846f-a0f2e5fcbcb6)
+
+### <p><i>bir dosya sisteminde toplam alan ve kullanılabilir alan hakkında bilgi görüntüler.</p> 
+
+![ls - lt(tarihe göre sıralar)](https://github.com/user-attachments/assets/c01e0056-aced-4c3a-8112-170d9fea092c)
+
+### <p><i>LS -LT komutu dosya ve klasörleri tarihlerine göre sıralar. arkadaşlar boşluk bırakmayı unutmayın yoksa komut çalışmaz...</p> 
+
+![ls-l  (alfabetik sıralar)](https://github.com/user-attachments/assets/81c5f505-211d-4167-b3f3-bbec628dc589)
+
+### <p><i>ls -l komutu dosyaları alfabetik sıraya göre yapmaktadır...</p> 
+
+
+![mkdir p(iç içe dizin oluşturur)](https://github.com/user-attachments/assets/93249ead-5e49-401b-b31d-76f1b79e8b4c)
+### <p><i>arkadaşlar son bilgilendirmek istediğim komutum MKDİR P . Bu komut dosya içinde dosya açar iç içe dosya klasör açmaktadır...</p> 
+
+### <p><i>Arkadaşlar son bir örnek vermek istiyorum pythonda değişkene bir değer atayıp printte hani değişkeni yazdırdığımızda atanan değeri yazdırdığı gibi echo ile klasöre yazı yazdırıp cat komutu ile görüntüleme yapabiliriz...Evet sevgili arkadaşlar benim anlatmak istediklerim bu kadardı umarım anlatabilmişimdir sizlere çok teşekkür ederim. Diğer derslerimizde görüşmek üzere dileğiyle hoşçakalın...</p> 
+
+
+
+
+
 
 
                                                                            
